@@ -8,6 +8,9 @@
     "build": "next build",
     "start": "next start"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "fast-xml-parser": "^4.4.1",
     "next": "14.2.5",
