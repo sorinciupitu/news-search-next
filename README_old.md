@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # news-search-next
 
 This is an initial README for the news-search-next project.
 
-=======
->>>>>>> e4b3bad (Initial commit)
 
 # News Search (Next.js + Tailwind)
 
